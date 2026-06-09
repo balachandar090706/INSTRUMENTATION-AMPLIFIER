@@ -33,9 +33,13 @@ MODEL GRAPH:
 
 TABULATION:
 
+![WhatsApp Image 2025-11-28 at 20 40 20_d3e7eaad](https://github.com/user-attachments/assets/fdb27706-d891-47ca-b879-1b05178ddab3)
 
 GRAPH: 
 
+![WhatsApp Image 2025-11-28 at 20 40 48_f6f87fbb](https://github.com/user-attachments/assets/f46957f2-dbcd-4a39-92c3-b6b04f9075c8)
+
 
 RESULT:
-
+ 
+ Thus an Instrumentation amplifier was constructed and test using op-amp IC741
